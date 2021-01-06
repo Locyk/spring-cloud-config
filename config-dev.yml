@@ -1,2 +1,2 @@
-config:
+app:
   info: "Springcloud-config,version=22"
